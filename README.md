@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavya Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
+
 
 - 🌱 I’m currently pursuing **MCA**
 
